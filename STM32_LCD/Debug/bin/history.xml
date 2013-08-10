@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.6.2 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32_LCD.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32_LCD -TC:\CooCox\CoIDE\configuration\ProgramData\STM32_LCD/arm-gcc-link.ld -g">
+      <target file="STM32_LCD.elf" lastModified="14069a4535f">
+         <source file="..\obj\string.o" lastModified="140698e60ed"/>
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="140698e6147"/>
+         <source file="..\obj\common.o" lastModified="140698e6183"/>
+         <source file="..\obj\main.o" lastModified="14069a19916"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="140698e61bf"/>
+         <source file="..\obj\menu_txt.o" lastModified="14069947cb7"/>
+         <source file="..\obj\hd44780.o" lastModified="14069a4516b"/>
+         <source file="..\obj\stdio.o" lastModified="140698e6273"/>
+         <source file="..\obj\menu.o" lastModified="14069a19998"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="140698e63e5"/>
+         <source file="..\obj\system_stm32f0xx.o" lastModified="140698e6421"/>
+         <source file="..\obj\stm32f0xx_exti.o" lastModified="140698e645d"/>
+         <source file="..\obj\stm32f0xx_syscfg.o" lastModified="140698e64a3"/>
+         <source file="..\obj\stm32f0_discovery.o" lastModified="140698e64df"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="140698e6511"/>
+         <source file="..\obj\core_cm0.o" lastModified="140698e654d"/>
+      </target>
+   </processor>
+</history>
